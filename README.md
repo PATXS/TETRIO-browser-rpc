@@ -20,3 +20,5 @@ How to use:
 * if you're running firefox, go to `about:config` and change `network.websocket.allowInsecureFromHTTPS` to `true`.
 
 that's all!
+
+if anything ever stops working and i haven't fixed it, please open an issue!
