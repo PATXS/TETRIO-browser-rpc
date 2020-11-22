@@ -13,6 +13,7 @@ How to use:
 * have Java installed, then download and run [DiscordPipeSocket.jar](https://github.com/PATXS/TETRIO-browser-rpc/raw/main/DiscordPipeSocket.jar).
 
   * this will need to be running any time you play TETR.IO, but it runs silently in the background. you can run it once and forget, until you manually exit it or log out. if you're running windows and don't want to manually start it every time you boot up or log in, put it in `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup` and it will run on boot.
+  * (i did not make this program, i've only uploaded it to this repo to provide a permanent link to it.)
   
 * have a userscript injector installed in your browser, such as tampermonkey ([chrome web store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)/[firefox add-on store](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)), and install the userscript from [here](https://raw.githubusercontent.com/PATXS/TETRIO-browser-rpc/main/TETRIO-RPC.js).
 
