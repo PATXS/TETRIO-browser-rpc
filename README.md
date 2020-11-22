@@ -23,4 +23,4 @@ that's all!
 
 if anything ever stops working and i haven't fixed it, please open an issue!
 
-[the logo up top is based on [osk's very own beautiful tetr.io desktop client logo](https://kagari.moe/outer_assets/tetrio/logo-desktop.png)]
+[the logo up top is inspired by [osk's very own beautiful tetr.io desktop client logo](https://kagari.moe/outer_assets/tetrio/logo-desktop.png)]
